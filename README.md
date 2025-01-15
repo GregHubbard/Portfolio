@@ -1,6 +1,6 @@
 # Portfolio
 
-[LINKEDIN](https://www.linkedin.com/in/gdhubbardjr/)&nbsp;&nbsp;&nbsp;[EMAIL](mailto:gdhubbardjr@gmail.com)&nbsp;&nbsp;&nbsp;
+[LinkedIn](https://www.linkedin.com/in/gdhubbardjr/)&nbsp;&nbsp;&nbsp;[Email](mailto:gdhubbardjr@gmail.com)&nbsp;&nbsp;&nbsp;
 
 ## Technical Skills
 - Object-Oriented Programming: Swift, Java
@@ -9,7 +9,7 @@
 - Development tools and techniques: MVVM, TCA, Swift Package Manager, XCTest, GraphQL, Apollo, REST APIs, Combine, AWS, Kafka, Concourse, Jenkins, Firebase, Docker, Xcode, Git
 
 ## Northwestern Mutual
-
+pictures coming soon
 - [App Store Link](https://apps.apple.com/us/app/northwestern-mutual/id1132579006)
 - Completed several new features contributing to over 80% YoY growth in user engagement
 - Achieved migration of microservices in the entire app working across 4 teams’ features
@@ -18,7 +18,7 @@
 - Developed in Swift using SwiftUI, UIKit, TCA, MVVM, Combine, GraphQL, Apollo
 
 ## Scribble Journey
-
+pictures coming soon
 - [App Store Link](https://apps.apple.com/us/app/scribble-journey/id6443977146)
 - Launched iOS app with guided drawing activities that are logged in a mental health journal
 - Highlighted by TechCrunch as great mental health app to express your emotions through doodles
@@ -28,6 +28,6 @@
 - Develop in Swift using SwiftUI, UIKit, Core Data, MVVM and Cloudkit
 
 ## Cardinal Health
-
+pictures coming soon
 - Created internal iOS app with SwiftUI for recruiters and candidates to interact at career fairs
 - Developed in Swift, Java, PostgreSQL, and ElasticSearch using SwiftUI, Core Data, GraphQL
